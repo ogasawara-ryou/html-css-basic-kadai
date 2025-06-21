@@ -62,10 +62,11 @@ h2::before {
   color: rgb(239, 111, 139);
 }
 
-#parent p:nth-of-type(2)::first-letter {
+.highlight {
     font-weight: bold;
     color: rgb(97, 206, 249);
 }
+
 
 img{
     margin: 10px,0;
