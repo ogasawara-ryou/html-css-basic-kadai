@@ -8,7 +8,8 @@
   justify-content: center;
 
   gap: 20px;
-  
+
+　text-align: center;
 
 }
 
@@ -16,7 +17,7 @@
 .top-child {
     width: 20%;
    
-    text-align: center;
+  
     
     background-color: #ffd9df;
     
